@@ -1,0 +1,2 @@
+# pixel_size comm_range agents robots stump_dist start_agents[x,y] goal_agents[x,y] start_robots[x,y]
+10 100 2 7 5 5 15 5 155 445 85 235 25 5 35 5 45 5 5 15 15 15 25 15 35 15
